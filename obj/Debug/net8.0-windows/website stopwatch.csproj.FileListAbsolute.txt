@@ -1,0 +1,16 @@
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\website_stopwatch.Form1.resources
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\website stopwatch.csproj.GenerateResource.cache
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\website stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\website stopwatch.AssemblyInfoInputs.cache
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\website stopwatch.AssemblyInfo.cs
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\website stopwatch.csproj.CoreCompileInputs.cache
+D:\SMK\website stopwatch\bin\Debug\net8.0-windows\website stopwatch.exe
+D:\SMK\website stopwatch\bin\Debug\net8.0-windows\website stopwatch.deps.json
+D:\SMK\website stopwatch\bin\Debug\net8.0-windows\website stopwatch.runtimeconfig.json
+D:\SMK\website stopwatch\bin\Debug\net8.0-windows\website stopwatch.dll
+D:\SMK\website stopwatch\bin\Debug\net8.0-windows\website stopwatch.pdb
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\website stopwatch.dll
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\refint\website stopwatch.dll
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\website stopwatch.pdb
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\website stopwatch.genruntimeconfig.cache
+D:\SMK\website stopwatch\obj\Debug\net8.0-windows\ref\website stopwatch.dll
